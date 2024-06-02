@@ -2,4 +2,6 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="raisin_black">#1F2128</color>
+    <color name="gray">#535353</color>
 </resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navGallery"
+        android:icon="@drawable/mission"
+        android:iconTint="#FFFFFF"
+        android:title="Gallery" />
+
+    <item
+        android:id="@+id/navHome"
+        android:icon="@drawable/home_2"
+        android:iconTint="#FFFFFF"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/navProfile"
+        android:icon="@drawable/astronaut_2"
+        android:iconTint="#FFFFFF"
+        android:title="Missions" />
+</menu>
