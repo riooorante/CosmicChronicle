@@ -15,7 +15,7 @@
 
 1. Clone repositori ini:
     ```bash
-    [git clone https://github.com/username/CosmicChronicle.git](https://github.com/riooorante/CosmicChronicle.git)
+   https://github.com/riooorante/CosmicChronicle.git
     ```
 2. Buka proyek dengan Android Studio.
 3. Sync Gradle untuk mengunduh semua dependensi yang diperlukan.
