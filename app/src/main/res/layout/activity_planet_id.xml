@@ -129,7 +129,7 @@
                         android:lineSpacingExtra="4dp"
                         android:text="Planet Venus merupakan salah satu planet yang ada di tata surya. Percepatan gravitasi pada permukaan planet ini adalah 8,87 m/s². Kerapatan rata-rata dari planet ini adalah  5.243 g/cm³. Suhu rata-rata pada planet ini adalah 732 Kelvin."
                         android:textColor="#8D8D8D"
-                        android:textSize="20sp" />
+                        android:textSize="16sp" />
                 </LinearLayout>
             </LinearLayout>
 

@@ -167,7 +167,7 @@
                                         android:layout_height="wrap_content"
                                         android:layout_marginStart="10dp"
                                         android:fontFamily="@font/arial_black"
-                                        android:text="The Planet"
+                                        android:text="The Planets"
                                         android:textColor="#FFFFFF"
                                         android:textSize="34sp" />
                                 </LinearLayout>
